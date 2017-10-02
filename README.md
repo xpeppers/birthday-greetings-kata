@@ -1,6 +1,4 @@
-# What's this?
-
-The exercise is to implement a birthday greetings software that uses emails to greet his users.
+The exercise aims to implement a birthday greetings software that uses emails to greet his users.
 
 ## How to
 
@@ -78,6 +76,6 @@ On Windows, the tests with the fake smtp server do not work.  If you are on Wind
 
 * Use whatever language and frameworks you want. 
 (provide instructions on how to run the application)
-* ***IMPORTANT***: Implement the requirements focusing on writing the best code 
+* **IMPORTANT**: Implement the requirements focusing on writing the best code 
 you can produce.
-* ***CODE SUBMISSION***: Add the code to your own Github account and send us the link.
+* **CODE SUBMISSION**: Add the code to your own Github account and send us the link.
