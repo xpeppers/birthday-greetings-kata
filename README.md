@@ -70,7 +70,7 @@ except in leap years, when they will get their greetings on the 29th.
 
 ## Notes for Windows
 
-On Windows, the tests with the fake smtp server do not work.  If you are on Windows, then comment or delete the AcceptanceTest.java file.  If you are on Linux, Mac or other Unix, then delete the AcceptanceForWindowsTest.java
+On Windows, the tests with the fake smtp server do not work.  If you are on Windows, then comment or delete the `AcceptanceTest.java` file.  If you are on Linux, Mac or other Unix, then delete the `AcceptanceForWindowsTest.java`
 
 ## General requirements
 
