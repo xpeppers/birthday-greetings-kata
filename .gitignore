@@ -1,2 +1,9 @@
 bin
 target
+# Eclipse files
+.classpath
+.project
+.settings/
+# Idea files
+.idea/
+
