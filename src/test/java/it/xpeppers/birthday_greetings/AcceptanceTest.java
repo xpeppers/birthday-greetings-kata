@@ -1,7 +1,5 @@
-package it.xpug.kata.birthday_greetings;
+package it.xpeppers.birthday_greetings;
 
-
-import org.junit.*;
 
 import com.dumbster.smtp.*;
 import org.junit.jupiter.api.AfterEach;

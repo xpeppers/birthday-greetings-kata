@@ -1,4 +1,4 @@
-package it.xpug.kata.birthday_greetings;
+package it.xpeppers.birthday_greetings;
 
 import javax.mail.Message;
 import javax.mail.MessagingException;

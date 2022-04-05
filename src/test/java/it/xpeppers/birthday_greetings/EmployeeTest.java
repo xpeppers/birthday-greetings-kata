@@ -1,4 +1,4 @@
-package it.xpug.kata.birthday_greetings;
+package it.xpeppers.birthday_greetings;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;
